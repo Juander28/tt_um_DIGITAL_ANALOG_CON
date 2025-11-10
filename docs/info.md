@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+GENERATED AN ANALOG VOLTAGE IN FUNCTION OF 4 INPUTS
 
 ## How to test
 
-Explain how to use your project
+VARYING THE DIGITAL 4 BIT AND IN THE OUTPUT IT SHOULD BE ABLE TO MEASURE THE OUTPUT IN VOLTAGE STEPS OF 1.8/16
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A VOlTMETER OR oscilloscope TO MEASURE THE VOLTAGE OUTPUT 
